@@ -148,13 +148,3 @@ Distributed under the MIT License. See LICENSE for details.
 
 Made with ❤️ by [Ali Ahmad Sunusi] | 📧 asakrg@outlook.com
 
-
-
-### How to Use This File:
-
-1. Create a new file named `README.md` in your project folder.
-2. Copy the above content into it.
-3. Replace placeholders (`inner-byte`, `Ali Ahmad Sunusi`, `Email`) with your details.
-4. Add a `LICENSE` file (optional but recommended).
-
-This README includes GitHub-native Mermaid diagram rendering and responsive design! 🚀
