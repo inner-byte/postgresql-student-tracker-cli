@@ -146,7 +146,7 @@ erDiagram
 
 Distributed under the MIT License. See LICENSE for details.
 
-Made with ❤️ by [Ali Ahmad Sunusi] | 📧 Email
+Made with ❤️ by [Ali Ahmad Sunusi] | 📧 asakrg@outlook.com
 
 
 
